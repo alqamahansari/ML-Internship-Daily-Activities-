@@ -6,7 +6,7 @@ Each commit represents **one day of learning**, focusing on **concept clarity, c
 ---
 
 ## Objectives
-- Practice Python for Machine Learning
+- Python for Machine Learning
 - Apply statistics using real and generated datasets
 - Implement ML algorithms step by step
 - Maintain daily progress using Git version control
